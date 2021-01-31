@@ -1,0 +1,11 @@
+{
+  "name": "ie5022-homework-1",
+  "version": "1.0.0",
+  "description": "Homework 1 for IE5022 [2021/JAN]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasitha Prabhath Gamage <ms21908538@my.sliit.lk>",
+  "license": "ISC"
+}
