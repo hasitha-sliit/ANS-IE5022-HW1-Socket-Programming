@@ -7,6 +7,10 @@ This home works was been done using two languages,
 
 > Before executing following commands, `Python3` and `NodeJs` need to installed in the system.  
 
+### Demo Videos
+
+Please check this [OneDrive Demo Video URL](https://mysliit-my.sharepoint.com/:v:/g/personal/ms21908538_my_sliit_lk/ERUTgwQ9wShMlLHGlALVgBABPOeMzRdCCh0oduK9bkS43g?e=HKA4ay) here. If there is any OneDrive link expiration issue, please check this [Google Drive share link](https://drive.google.com/file/d/1M9xuqMbTWYaOHWvD3Ih_cCM0M1YvWqhm/view?usp=sharing).
+
 ### For Pyhton
 
 First of all you need to go `python` folder.
